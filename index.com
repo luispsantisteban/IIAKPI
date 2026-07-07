@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -1086,4 +1085,3 @@ updateGastos();
 </script>
 </body>
 </html>
-```
