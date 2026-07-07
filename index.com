@@ -1087,5 +1087,3 @@ updateGastos();
 </body>
 </html>
 ```
-
-Selecciona todo en ese editor de GitHub y pega este bloque completo.
